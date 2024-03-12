@@ -1,0 +1,12 @@
+registros = [
+    "Maria da Silva Rua das Flores cep 12345678 Centro São Paulo São Paulo",
+    "João Oliveira Rua Bela Vista cep 54321876 Copacabana Rio de Janeiro Rio de Janeiro",
+    "Ana Souza Rua do Comércio cep 98765432 Boa Viagem Recife Pernambuco",
+    "Pedro Santos Rua das Palmeiras cep 45678901 Jardins São Paulo São Paulo",
+    "Carla Costa Rua Principal cep 87654321 Bairro Novo Curitiba Paraná",
+    "Fernando Lima Rua da Paz cep 23456789 Centro Fortaleza Ceará",
+    "Juliana Pereira Rua do Sol cep 78901234 Barra Salvador Bahia",
+    "Luiz Rodrigues Rua das Esperanças cep 56789012 Liberdade Belém Pará",
+    "Patrícia Almeida Rua das Árvores cep 34567890 Jardim Botânico Brasília Distrito Federal",
+    "Marcos Oliveira Rua Beira Mar cep 67890123 Praia de Iracema Fortaleza Ceará"
+]
