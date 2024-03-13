@@ -1,11 +1,11 @@
 NOME,ENDEREÇO,CEP,BAIRRO,CIDADE,ESTADO
 Maria da Silva,Rua das Flores,12345678,Centro,Centro,São Paulo
 João Oliveira,Rua Bela Vista,54321876,Copacabana,Copacabana,Rio de Janeiro
-Ana Souza,Rua do Comércio,98765432,Boa Viagem Recife,Recife,Pernambuco
+Ana Souza,Rua do Comércio,98765432,Boa Viagem,Recife,Pernambuco
 Pedro Santos,Rua das Palmeiras,45678901,Jardins,Jardins,São Paulo
-Carla Costa,Rua Principal,87654321,Bairro Novo Curitiba,Curitiba,Paraná
-Fernando Lima,Rua da Paz,23456789,Centro Fortaleza,Fortaleza,Ceará
-Juliana Pereira,Rua do Sol,78901234,Barra Salvador,Salvador,Bahia
-Luiz Rodrigues,Rua das Esperanças,56789012,Liberdade Belém,Belém,Pará
-Patrícia Almeida,Rua das Árvores,34567890,Jardim Botânico Brasília,Brasília,Distrito Federal
-Marcos Oliveira,Rua Beira Mar,67890123,Praia de Iracema Fortaleza,Fortaleza,Ceará
+Carla Costa,Rua Principal,87654321,Bairro Novo,Curitiba,Paraná
+Fernando Lima,Rua da Paz,23456789,Centro,Fortaleza,Ceará
+Juliana Pereira,Rua do Sol,78901234,Barra,Salvador,Bahia
+Luiz Rodrigues,Rua das Esperanças,56789012,Liberdade,Belém,Pará
+Patrícia Almeida,Rua das Árvores,34567890,Jardim Botânico,Brasília,Distrito Federal
+Marcos Oliveira,Rua Beira Mar,67890123,Praia de Iracema,Fortaleza,Ceará
